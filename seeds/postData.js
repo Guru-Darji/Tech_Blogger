@@ -4,12 +4,12 @@ const postdata =
 [
   {
     "postTitle": "Nice Weather!",
-    "postContent": "Its been some nice wether recently",
+    "postContent": "Its been some real nice weather lately",
     "userId": 1
   },
   {
     "postTitle": "One Piece",
-    "postContent": "This new One Piece chapter was crazt",
+    "postContent": "This new One Piece chapter was crazy",
     "userId": 2
   },
   {
