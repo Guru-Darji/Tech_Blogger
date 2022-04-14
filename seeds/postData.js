@@ -14,7 +14,7 @@ const postdata =
   },
   {
     "postTitle": "What da dog doin?",
-    "postContent": "Just trying to figure out th eage old question",
+    "postContent": "Just trying to figure out the age old question",
     "userId": 3
   }
 ];
